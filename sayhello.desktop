@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=sh -c "bash ~/.hello"
+Hidden=false
+NoDisplay=true
+X-GNOME-Autostart-enabled=true
+Name=Say hello
+Comment=Just Say Hello :))
